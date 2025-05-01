@@ -1,0 +1,40 @@
+1. System Analyst (محلل نظم)
+-----------------------------------------
+- Gathers user requirements and defines system needs.
+- Bridges the gap between business and technical teams.
+- Documents functional and technical specifications.
+- Collaborates with designers and developers.
+
+2. Database Designer (مصمم قاعدة البيانات)
+-----------------------------------------
+- Designs the logical and physical structure of the database.
+- Defines tables, relationships, keys, and constraints.
+- Applies normalization to avoid redundancy and ensure efficiency.
+
+3. Database Developer (مطور قاعدة البيانات)
+-----------------------------------------
+- Writes SQL queries, stored procedures, and triggers.
+- Implements business logic at the database level.
+- Works on database performance optimization.
+
+4. DBA - Database Administrator (مدير قاعدة البيانات)
+-----------------------------------------
+- Manages database security, backups, and recovery.
+- Tunes performance and monitors system health.
+- Manages access control and user permissions.
+- Ensures data availability and consistency.
+
+5. Application Developer (مطور التطبيقات)
+-----------------------------------------
+- Develops software applications that interact with the database.
+- Uses APIs and SQL to retrieve or modify data.
+- Creates user-friendly interfaces and ensures secure data handling.
+
+6. BI Developer - Business Intelligence Developer (مطور ذكاء الأعمال)
+-----------------------------------------
+- Builds dashboards and reports for data analysis.
+- Designs and manages data warehouses.
+- Uses BI tools (e.g., Power BI, Tableau).
+- Helps organizations make data-driven decisions.
+
+=========================================

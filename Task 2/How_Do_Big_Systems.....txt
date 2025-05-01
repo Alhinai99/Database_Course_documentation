@@ -1,0 +1,57 @@
+
+==================================================
+Task 1: How Do Big Systems Store Data?
+==================================================
+- Instagram uses PostgreSQL for storing user data, photos, and hashtags.
+  They use sharding to handle data growth rather than switching to NoSQL.
+
+- Uber uses a combination of MySQL, PostgreSQL, Cassandra (NoSQL), and Redis
+  for handling large-scale operations and ensuring performance.
+
+- Amazon uses a hybrid approach: relational databases like Aurora and RDS,
+  and NoSQL like DynamoDB depending on the use case.
+
+- SQL Server usage: Many banks and financial institutions use SQL Server
+  for secure, transactional data handling.
+
+==================================================
+Task 2: Do Video Games Use Databases?
+==================================================
+- Online games (PUBG, Fortnite) store player data such as scores,
+  inventory, and profiles in relational databases like MySQL or PostgreSQL.
+
+- massively multiplayer online role-playing game (MMORPG) often rely on relational databases for consistent, structured data
+  management across accounts and gameplay.
+
+==================================================
+Task 3: Can a Database Work Without the Internet?
+==================================================
+- Yes, offline systems such as military bases and aircraft use local
+  databases that don’t require internet access.
+
+- SQL Server can be installed and run offline, making it suitable for
+  environments without internet connectivity.
+
+==================================================
+Task 4: What Makes Online Stores So Fast?
+==================================================
+- E-commerce platforms like Amazon and Noon use both relational (MySQL)
+  and NoSQL (MongoDB) databases.
+
+- Cloud databases are widely used for high availability and speed.
+
+- Challenges: Handling millions of product entries, fast search, and
+  consistent availability.
+
+==================================================
+Task 5: How Do Banks Protect Their Data?
+==================================================
+- Banks rely on databases like Oracle and SQL Server with features such as:
+  - Access control
+  - Data encryption
+  - Audit logging
+  - Data integrity
+
+- These databases support compliance with data security regulations.
+
+==================================================
